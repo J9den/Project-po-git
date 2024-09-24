@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  проект по гиту
-//
-//  Created by Дарина on 24.09.2024.
-//
 
 #include <iostream>
 
